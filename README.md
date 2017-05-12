@@ -10,3 +10,7 @@ JS.rb is a `polyfill` library that provides access to some of the more widely us
 JS.rb is internally referred to as rb.js. It makes for a sensible file name. The library is available as:
 
 `rb.js, rb.min.js & via NPM`.
+
+- ----
+Wiki Documentation
+- ---
