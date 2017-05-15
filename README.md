@@ -12,5 +12,5 @@ JS.rb is internally referred to as rb.js. It makes for a sensible file name. The
 `rb.js, rb.min.js & via NPM`.
 
 - ----
-Documentation: https://github.com/jsrb/JS.rb/wiki
+Documentation: https://github.com/jsrb/JS.rb/wiki : version 1.0.0
 - ---
