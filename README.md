@@ -1,7 +1,7 @@
 # JS.rb
 A Ruby library for JavaScript  
 - ---
-![JS.rb](https://img.shields.io/badge/JS.rb-v.0.0.1-red.svg)
+![JS.rb](https://img.shields.io/badge/JS.rb-v.1.0.1-red.svg)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 [![Gemnasium](https://img.shields.io/gemnasium/mathiasbynens/he.svg)]()
 
@@ -20,5 +20,5 @@ JS.rb is internally referred to as rb.js. It makes for a sensible file name. The
 
 - ----
 Documentation: https://github.com/jsrb/JS.rb/wiki    
-![JS.rb](https://img.shields.io/badge/JS.rb-v.0.0.1-red.svg)
+![JS.rb](https://img.shields.io/badge/JS.rb-v.1.0.1-red.svg)
 - ---
